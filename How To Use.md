@@ -19,7 +19,7 @@
 
 ## Como Obter um Repositório Online
 1 - Na guia <b>Team Explorer - Conectar</b> procure pela sessão <b><i>"GitHub"</i></b> e clique no botão <b><i>"Clonar"</i></b>;</br>
-2 - Selecione na lista o repositório desejado, defina o caminho do repositório local e clique no botão <b><i>"Clonar"</i>;</b>
+2 - Selecione na lista o repositório desejado, defina o caminho do repositório local e clique no botão <b><i>"Clonar"</i>;</br>
 3 - Procure pelo repositório criado na sessão <b><i>"GitHub"</i></b>, e dê um duplo clique sobre ele. Na aba <b><i>"Soluções"</i></b>, de um duplo clique sobre a solução desejada para abri-la.</br></br></br>
 
 Bons estudos, e lembre-se:
